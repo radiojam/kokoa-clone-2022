@@ -46,3 +46,12 @@
     margin-bottom: 10px;
     display: block;
 }
+.user-component__text {
+    position:relative;
+}
+.user-component__text i {
+    position: absolute;
+    left: 115px;
+    top: 32px;
+    color: red;
+}
